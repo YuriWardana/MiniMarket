@@ -1,0 +1,26 @@
+{
+  "name": "MiniMarket",
+  "version": "1.0.0",
+  "description": "⏰ estimated time: ~210 minutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriWardana/MiniMarket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriWardana/MiniMarket/issues"
+  },
+  "homepage": "https://github.com/YuriWardana/MiniMarket#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "sequelize": "^6.6.2"
+  }
+}
